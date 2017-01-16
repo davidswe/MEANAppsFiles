@@ -5,6 +5,7 @@
       <mapping pattern="EventConroller" type="JavaScript" />
       <mapping pattern="durationsSpec" type="JavaScript" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="clip" type="PLAIN_TEXT" />
       <mapping pattern="bob" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
