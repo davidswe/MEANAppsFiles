@@ -14,8 +14,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="davidswe" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davidswe/Ionic2Course" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/ionic" />
   </component>
 </application>
